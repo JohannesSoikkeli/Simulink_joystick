@@ -1,0 +1,5 @@
+ACTIONS:
+1. Installed Code::Blocks normally.
+2. Downloaded SDL2 development kit.
+3. Added the 64-bit version to LIBRARY folder with path to "include" and "lib".
+4. Added 64-bit SDL.dll next to the executable.
